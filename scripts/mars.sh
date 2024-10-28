@@ -42,12 +42,11 @@ function go_to_bookmark() {
     fi
 }
     alias tt='run_ai_command'
-    
+
     for i in {1..9}; do
         alias "save$i"="bookmark_directory $i"
         alias "go$i"="go_to_bookmark $i"
     done
-}
 
 #set_aliases
 
