@@ -14,6 +14,8 @@ function run_ai_command() {
     local user_input="$*"
     tgpt --provider duckduckgo "$user_input"
 }
+alias tt='run_ai_command'
+
 #print_system_stats
 
 # Example usage of the new function
