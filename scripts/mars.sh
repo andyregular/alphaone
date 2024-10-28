@@ -25,6 +25,16 @@ function get_os_name() {
     fi
 }
 
+function install_ubuntu_apps() {
+    local apps=("vim" "ncdu")
+    if [[ "$(get_os_name)" == "ubuntu" ]]; then
+        sudo apt-get update -y
+        sudo apt-get install -y "${apps[@]}"
+    else
+        echo "This function is only supported on Ubuntu systems."
+    fi
+}
+
 function print_welcome_message() {
     echo "Welcome to Mars!"
     echo "Current OS: $(get_os_name)"    
