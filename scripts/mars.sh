@@ -41,6 +41,7 @@ function go_to_bookmark() {
         echo "Invalid bookmark number. Please use a number between 1 and 9."
     fi
 }
+function set_aliases() {
     alias tt='run_ai_command'
 
     for i in {1..9}; do
@@ -48,7 +49,8 @@ function go_to_bookmark() {
         alias "go$i"="go_to_bookmark $i"
     done
 
-#set_aliases
+}
+set_aliases
 
 #print_system_stats
 
