@@ -1,8 +1,18 @@
 #!/bin/bash
 
+function get_os_name() {
+    if [[ "$OSTYPE" == "linux-gnu"* ]]; then
+        echo "linux"
+    elif [[ "$OSTYPE" == "darwin"* ]]; then
+        echo "macos"
+    else
+        echo "unknown"
+    fi
+}
+
 function print_welcome_message() {
     echo "Welcome to Mars!"
-    
+    echo "Current OS: $(get_os_name)"    
 }
 
 BOOKMARK_FILE="$HOME/.bookmarks"
