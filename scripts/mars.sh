@@ -23,7 +23,8 @@ function get_os_name() {
     else
         echo "unknown"
     fi
-}
+    alias stash1='stash_data'
+    alias show1='show_data'
 
 function push_to_pastebin() {
     local text="$1"
@@ -82,7 +83,30 @@ function go_to_bookmark() {
         echo "Invalid bookmark number. Please use a number between 1 and 9."
     fi
 }
-function set_aliases() {
+ENCRYPTION_KEY="your_secret_key"
+ENCRYPTION_DIR="$HOME/.encrypted_data"
+
+mkdir -p "$ENCRYPTION_DIR"
+
+function stash_data() {
+    local data="$1"
+    local ref_id="$2"
+    local encrypted_file="$ENCRYPTION_DIR/$ref_id.enc"
+
+    echo "$data" | openssl enc -aes-256-cbc -salt -pass pass:"$ENCRYPTION_KEY" -out "$encrypted_file"
+    echo "Data stashed with reference ID: $ref_id"
+}
+
+function show_data() {
+    local ref_id="$1"
+    local encrypted_file="$ENCRYPTION_DIR/$ref_id.enc"
+
+    if [ -f "$encrypted_file" ]; then
+        openssl enc -aes-256-cbc -d -salt -pass pass:"$ENCRYPTION_KEY" -in "$encrypted_file"
+    else
+        echo "No data found for reference ID: $ref_id"
+    fi
+}
     alias tt='run_ai_command'
 
     for i in {1..9}; do
