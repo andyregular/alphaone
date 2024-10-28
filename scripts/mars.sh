@@ -2,6 +2,10 @@
 
 function print_welcome_message() {
     echo "Welcome to Mars!"
+    
+    for i in {1..9}; do
+        alias "go$i"="go_to_bookmark $i"
+    done
 }
 
 function print_system_stats() {
