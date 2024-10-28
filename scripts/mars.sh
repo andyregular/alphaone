@@ -10,5 +10,8 @@ function print_system_stats() {
     free -h
 }
 
-print_welcome_message
+function run_ai_command() {
+    local user_input="$*"
+    tgpt --provider duckduckgo "$user_input"
+}
 print_system_stats
