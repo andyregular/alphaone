@@ -25,6 +25,20 @@ function get_os_name() {
     fi
 }
 
+function push_to_pastebin() {
+    local text="$1"
+    local api_dev_key="YOUR_PASTEBIN_API_KEY"
+    local api_user_key="YOUR_PASTEBIN_USER_KEY"
+    local response=$(curl -s -d "api_dev_key=$api_dev_key" -d "api_user_key=$api_user_key" -d "api_option=paste" -d "api_paste_code=$text" "https://pastebin.com/api/api_post.php")
+    echo "$response"
+}
+
+function pop_from_pastebin() {
+    local paste_key="$1"
+    local response=$(curl -s "https://pastebin.com/raw/$paste_key")
+    echo "$response"
+}
+
 function install_ubuntu_apps() {
     local apps=("vim" "ncdu")
     if [[ "$(get_os_name)" == "ubuntu" ]]; then
@@ -75,6 +89,9 @@ function set_aliases() {
         alias "save$i"="bookmark_directory $i"
         alias "go$i"="go_to_bookmark $i"
     done
+
+    alias push1='push_to_pastebin'
+    alias pop1='pop_from_pastebin'
 
 }
 set_aliases
