@@ -2,7 +2,22 @@
 
 function get_os_name() {
     if [[ "$OSTYPE" == "linux-gnu"* ]]; then
-        echo "linux"
+        if [ -f /etc/os-release ]; then
+            . /etc/os-release
+            case $ID in
+                ubuntu|debian)
+                    echo "ubuntu"
+                    ;;
+                centos|rhel|fedora)
+                    echo "redhat"
+                    ;;
+                *)
+                    echo "linux"
+                    ;;
+            esac
+        else
+            echo "linux"
+        fi
     elif [[ "$OSTYPE" == "darwin"* ]]; then
         echo "macos"
     else
