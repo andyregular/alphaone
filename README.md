@@ -107,8 +107,8 @@ Top 10 Indian Instagram Influencers
 3. Kusha Kapila (@kushakapila) - Fashion and lifestyle influencer.
 4. Savi & Vid (@bruisedpassports) - Travel bloggers and influencers.
 5. Ranveer Allahbadia (@beerbiceps) - Fitness and lifestyle influencer.
-6. Jacqueline Fernandez (@jacquelinef143) - Actress and model.
-7. Deepika Padukone (@deepikapadukone) - Actress and producer.
+6. Mukesh Ambani (@mukeshambani) - Chairman of Reliance Industries, estimated net worth: $90 billion USD.
+7. Gautam Adani (@gautamadani) - Chairman of Adani Group, estimated net worth: $120 billion USD.
 8. Faye D'Souza (@fayedsouza) - Journalist and entrepreneur.
 9. Ankur Warikoo (@ankurwarikoo) - Entrepreneur and startup advisor.
 10. Tanmay Bhat (@tanmaybhat) - Comedian, YouTuber, and co-founder of AIB.
