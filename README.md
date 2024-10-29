@@ -12,7 +12,7 @@ Swap:             0B          0B          0B
 
 Network Interfaces and IP Addresses:
 
-[Add the output of `ip -o -4 addr show | awk '{print $2, $4}'` here]
+[Add the output of the command here]
 
 ---
 
