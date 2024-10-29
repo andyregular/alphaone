@@ -23,6 +23,7 @@ function get_os_name() {
     else
         echo "unknown"
     fi
+}
     alias stash1='stash_data'
     alias show1='show_data'
 
@@ -107,6 +108,7 @@ function show_data() {
         echo "No data found for reference ID: $ref_id"
     fi
 }
+
     alias tt='run_ai_command'
 
     for i in {1..9}; do
@@ -117,8 +119,8 @@ function show_data() {
     alias push1='push_to_pastebin'
     alias pop1='pop_from_pastebin'
 
-}
-set_aliases
+#}
+#set_aliases
 
 #print_system_stats
 
