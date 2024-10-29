@@ -8,6 +8,14 @@ System Memory Information:
 Mem:           4.3Gi       968Mi       506Mi        18Mi       2.8Gi       3.0Gi
 Swap:             0B          0B          0B
 
+---
+
+Network Interfaces and IP Addresses:
+
+[Add the output of `ip -o -4 addr show | awk '{print $2, $4}'` here]
+
+---
+
 Evergreen Content Ideas for YouTube
 
 1. How-To Guides and Tutorials: Create step-by-step guides on popular topics.
