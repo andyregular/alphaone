@@ -12,7 +12,7 @@ Swap:             0B          0B          0B
 
 Network Interfaces and IP Addresses:
 
-[Add the output of `ifconfig | grep 'inet ' | awk '{print $1, $2}'` here]
+[Add the output of `ifconfig | grep 'inet ' | awk '{print $2}'` here]
 
 ---
 
