@@ -2,6 +2,10 @@
 
 ---
 
+System Uptime:
+
+[Add the output of `uptime` here]
+
 System Memory Information:
 
                total        used        free      shared  buff/cache   available
