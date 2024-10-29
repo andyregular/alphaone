@@ -4,7 +4,9 @@
 
 System Memory Information:
 
-[Add the output of `free -h` here]
+               total        used        free      shared  buff/cache   available
+Mem:           4.3Gi       968Mi       506Mi        18Mi       2.8Gi       3.0Gi
+Swap:             0B          0B          0B
 
 Evergreen Content Ideas for YouTube
 
