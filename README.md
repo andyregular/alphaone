@@ -4,7 +4,7 @@
 
 System Uptime:
 
-[Add the output of `uptime` here]
+ 14:32:16 up 10 days,  3:22,  2 users,  load average: 0.00, 0.01, 0.05
 
 System Memory Information:
 
