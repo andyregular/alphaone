@@ -1,6 +1,11 @@
 alphaone
 
 ---
+### NIC Names and IP Addresses
+lo: 127.0.0.1
+enp3s0: 38.175.194.179
+tailscale0: 100.99.238.43
+---
 
 Christmas Content Ideas for YouTube
 
