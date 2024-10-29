@@ -23,6 +23,12 @@ System Memory Information:
               total        used        free      shared  buff/cache   available
 Mem:           4.3Gi       968Mi       506Mi        18Mi       2.8Gi       3.0Gi
 Swap:             0B          0B          0B
+```
+```
+
+README.md
+```python
+<<<<<<< SEARCH
 ---
 Network Interfaces and IP Addresses:
 inet 192.168.1.10
