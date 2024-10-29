@@ -109,6 +109,12 @@ function show_data() {
     fi
 }
 
+function print_user_input() {
+    local user_input="$1"
+    echo "User input: $user_input"
+}
+
+function set_aliases() {
     alias tt='run_ai_command'
 
     for i in {1..9}; do
@@ -118,9 +124,9 @@ function show_data() {
 
     alias push1='push_to_pastebin'
     alias pop1='pop_from_pastebin'
+}
 
-#}
-#set_aliases
+set_aliases
 
 #print_system_stats
 
