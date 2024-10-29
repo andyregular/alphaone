@@ -2,6 +2,10 @@
 
 ---
 
+System Memory Information:
+
+[Add the output of `free -h` here]
+
 Evergreen Content Ideas for YouTube
 
 1. How-To Guides and Tutorials: Create step-by-step guides on popular topics.
