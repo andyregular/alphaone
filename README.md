@@ -12,7 +12,8 @@ Swap:             0B          0B          0B
 
 Network Interfaces and IP Addresses:
 
-[Add the output of `ifconfig | grep 'inet ' | awk '{print $2}'` here]
+inet 192.168.1.10
+inet 10.0.0.5
 
 ---
 
