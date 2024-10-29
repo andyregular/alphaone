@@ -22,7 +22,7 @@ Christmas Content Ideas for YouTube
 
 System Uptime:
 
- 15:45:30 up 11 days,  4:15,  3 users,  load average: 0.02, 0.03, 0.01
+ 15:45:30 up 11 days,  4:15
 
 System Memory Information:
 
