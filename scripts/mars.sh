@@ -24,8 +24,8 @@ function get_os_name() {
         echo "unknown"
     fi
 }
-    alias stash1='stash_data'
-    alias show1='show_data'
+alias stash1='stash_data'
+alias show1='show_data'
 
 function push_to_pastebin() {
     local text="$1"
