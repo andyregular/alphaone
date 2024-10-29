@@ -102,11 +102,11 @@ Top 10 Reddit Alternatives
 
 ---
 Top 10 Indian Instagram Influencers
-1. Virat Kohli (@virat.kohli) - Cricketer and sports icon.
-2. Priyanka Chopra (@priyankachopra) - Actress and global icon. 
-3. Shraddha Kapoor (@shraddhakapoor) - Actress and singer.
-4. Neha Kakkar (@nehakakkar) - Popular singer and performer.
-5. Alia Bhatt (@aliaabhatt) - Actress and fashion icon.
+1. Bhuvan Bam (@bhuvan.bam22) - Comedian, singer, and YouTuber.
+2. Dolly Singh (@dollysingh) - Content creator and social media influencer.
+3. Kusha Kapila (@kushakapila) - Fashion and lifestyle influencer.
+4. Savi & Vid (@bruisedpassports) - Travel bloggers and influencers.
+5. Ranveer Allahbadia (@beerbiceps) - Fitness and lifestyle influencer.
 6. Jacqueline Fernandez (@jacquelinef143) - Actress and model.
 7. Deepika Padukone (@deepikapadukone) - Actress and producer.
 8. Kareena Kapoor Khan (@kareenakapoorkhan) - Actress and style icon.
