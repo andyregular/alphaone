@@ -1,4 +1,4 @@
-# alphaone
+alphaone
 
 ---
 
@@ -22,7 +22,7 @@ Christmas Content Ideas for YouTube
 
 System Uptime:
 
- 15:45:30 up 11 days,  4:15
+ 15:45:30 up 11 days, 4:15
 
 System Memory Information:
 
@@ -56,13 +56,13 @@ Evergreen Content Ideas for YouTube
 
 Top 10 Reddit Alternatives
 
-1. **Voat**: A platform very similar to Reddit with a focus on free speech.
-2. **Quora**: A Q&A platform where users can ask questions and provide answers.
-3. **4chan**: An imageboard that allows users to discuss a wide variety of topics anonymously.
-4. **Discord**: A chat application with servers dedicated to specific communities and topics.
-5. **Slashdot**: A site focusing on technology and science news, featuring user-submitted content.
-6. **Hacker News**: A social news website focusing on computer science and entrepreneurship.
-7. **Tildes**: A non-profit community focused on high-quality content and thoughtful discussion.
-8. **Lemmy**: An open-source alternative to Reddit that allows users to host their own communities.
-9. **Raddle**: A privacy-focused community platform with a structure similar to Reddit.
-10. **Digg**: A news aggregator with a focus on trending stories and social discovery.
+1. Voat: A platform very similar to Reddit with a focus on free speech.
+2. Quora: A Q&A platform where users can ask questions and provide answers.
+3. 4chan: An imageboard that allows users to discuss a wide variety of topics anonymously.
+4. Discord: A chat application with servers dedicated to specific communities and topics.
+5. Slashdot: A site focusing on technology and science news, featuring user-submitted content.
+6. Hacker News: A social news website focusing on computer science and entrepreneurship.
+7. Tildes: A non-profit community focused on high-quality content and thoughtful discussion.
+8. Lemmy: An open-source alternative to Reddit that allows users to host their own communities.
+9. Raddle: A privacy-focused community platform with a structure similar to Reddit.
+10. Digg: A news aggregator with a focus on trending stories and social discovery.
