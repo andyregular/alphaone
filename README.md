@@ -4,7 +4,7 @@
 
 System Uptime:
 
- 14:32:16 up 10 days,  3:22,  2 users,  load average: 0.00, 0.01, 0.05
+ 15:45:30 up 11 days,  4:15,  3 users,  load average: 0.02, 0.03, 0.01
 
 System Memory Information:
 
