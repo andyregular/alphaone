@@ -99,3 +99,17 @@ Top 10 Reddit Alternatives
 8. Lemmy: An open-source alternative to Reddit that allows users to host their own communities. [Website](https://lemmy.ml)
 9. Raddle: A privacy-focused community platform with a structure similar to Reddit. [Website](https://raddle.me)
 10. Digg: A news aggregator with a focus on trending stories and social discovery. [Website](https://digg.com)
+
+---
+Top 10 Indian Instagram Influencers
+1. Virat Kohli (@virat.kohli) - Cricketer and sports icon.
+2. Priyanka Chopra (@priyankachopra) - Actress and global icon. 
+3. Shraddha Kapoor (@shraddhakapoor) - Actress and singer.
+4. Neha Kakkar (@nehakakkar) - Popular singer and performer.
+5. Alia Bhatt (@aliaabhatt) - Actress and fashion icon.
+6. Jacqueline Fernandez (@jacquelinef143) - Actress and model.
+7. Deepika Padukone (@deepikapadukone) - Actress and producer.
+8. Kareena Kapoor Khan (@kareenakapoorkhan) - Actress and style icon.
+9. Salman Khan (@beingsalmankhan) - Actor and producer.
+10. Karan Johar (@karanjohar) - Filmmaker and talk show host.
+---
