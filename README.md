@@ -109,7 +109,7 @@ Top 10 Indian Instagram Influencers
 5. Ranveer Allahbadia (@beerbiceps) - Fitness and lifestyle influencer.
 6. Jacqueline Fernandez (@jacquelinef143) - Actress and model.
 7. Deepika Padukone (@deepikapadukone) - Actress and producer.
-8. Kareena Kapoor Khan (@kareenakapoorkhan) - Actress and style icon.
-9. Salman Khan (@beingsalmankhan) - Actor and producer.
-10. Karan Johar (@karanjohar) - Filmmaker and talk show host.
+8. Faye D'Souza (@fayedsouza) - Journalist and entrepreneur.
+9. Ankur Warikoo (@ankurwarikoo) - Entrepreneur and startup advisor.
+10. Tanmay Bhat (@tanmaybhat) - Comedian, YouTuber, and co-founder of AIB.
 ---
