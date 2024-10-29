@@ -101,6 +101,22 @@ Top 10 Reddit Alternatives
 10. Digg: A news aggregator with a focus on trending stories and social discovery. [Website](https://digg.com)
 
 ---
+
+Top 10 Online Entrepreneurs Well Known in India
+
+1. Vijay Shekhar Sharma - Founder of Paytm.
+2. Sachin Bansal - Co-founder of Flipkart.
+3. Binny Bansal - Co-founder of Flipkart.
+4. Bhavish Aggarwal - Co-founder of Ola Cabs.
+5. Deepinder Goyal - Founder of Zomato.
+6. Ritesh Agarwal - Founder of OYO Rooms.
+7. Kunal Shah - Founder of CRED.
+8. Byju Raveendran - Founder of BYJU'S.
+9. Falguni Nayar - Founder of Nykaa.
+10. Ashish Hemrajani - Founder of BookMyShow.
+
+---
+
 Top 10 Indian Instagram Influencers
 1. Bhuvan Bam (@bhuvan.bam22) - Comedian, singer, and YouTuber.
 2. Dolly Singh (@dollysingh) - Content creator and social media influencer.
