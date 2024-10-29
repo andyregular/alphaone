@@ -1,6 +1,8 @@
 alphaone
 
 ---
+## TODO List
+- Finish the tax thing
 Christmas Content Ideas for YouTube
 1. Christmas Decoration Ideas: Share creative and budget-friendly decoration tips.
 2. DIY Christmas Gifts: Show how to make personalized gifts at home.
